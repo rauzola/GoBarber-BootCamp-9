@@ -1,0 +1,4 @@
+docker ps = para ver os container que estao rodando 
+docker ps -a = para ver todos os container 
+pegar o id ou o nome 
+docker start nome 
